@@ -1,6 +1,6 @@
 # Experiment 2: Numerical Python (NumPy)
 ## Course: ECE 2112 - Advanced Computer Programming and Algorithms 
-#### University of Santo Tomas, Faculty of Enginering, Electronics Engineering Department
+**Institution**: University of Santo Tomas, Faculty of Enginering, Electronics Engineering Department
 ---
 ## Introduction
 This is the second experiment for ECE 2112: Advanced Computer Programming and Algorithms. For this experiment, the programmer will deal with Numerical Python or also known as NumPy. Numpy is the core library for scientific computing in Python. It provides a high-performance multidimensional array object and tools for working with arrays. 
