@@ -1,5 +1,5 @@
 # Experiment 2: Numerical Python (NumPy)
-## Course: ECE 2112 - Advanced Computer Programming and Algorithms <br/>
+## Course: ECE 2112 - Advanced Computer Programming and Algorithms 
 University of Santo Tomas, Faculty of Enginering, Electronics Engineering Department
 ---
 ## Introduction
