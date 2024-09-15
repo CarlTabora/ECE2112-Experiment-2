@@ -74,7 +74,7 @@ When coding, it is best to do practices that would help you efficiently write co
 - Be consistent with the codes.
 ---
 ## Files Included
-- PA2.ipynb: Jupyter notebook with the Python code for both problems.
+- Tabora-EXPERIMENT 2.ipynb: Jupyter notebook with the Python code.
 - X_normalized.npy: Output file containing the normalized ndarray.
 - div_by_3.npy: Output file containing elements divisible by 3.
 ---
